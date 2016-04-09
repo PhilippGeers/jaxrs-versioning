@@ -13,7 +13,7 @@ With this framework you are able to replace most of the boilerplate code with so
 
 Example:
 --------------------------------
-   "address": {
+    "address": {
        "street": {
            "name": "Samplestreet",
            "number": "1"
@@ -21,7 +21,7 @@ Example:
        "city": "12345 Samplecity"
    }
 When you want to rename "name" of "street", you have to copy it to be backward-compatible like
-   "address": {
+    "address": {
        "street": {
            "name": "Samplestreet",
            "streetName": "Samplestreet",
